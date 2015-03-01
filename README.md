@@ -1,4 +1,4 @@
-# New_options: used the option 'without bundle install'
+# New_options: used the option 'don't run bundle install'
 
 == README
 
